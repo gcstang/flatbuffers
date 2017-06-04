@@ -1,5 +1,7 @@
 ![logo](http://google.github.io/flatbuffers/fpl_logo_small.png) FlatBuffers
 ===========
+
+[![Join the chat at https://gitter.im/google/flatbuffers](https://badges.gitter.im/google/flatbuffers.svg)](https://gitter.im/google/flatbuffers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/google/flatbuffers.svg?branch=master)](https://travis-ci.org/google/flatbuffers) [![Build status](https://ci.appveyor.com/api/projects/status/yg5idd2fnusv1n10?svg=true)](https://ci.appveyor.com/project/gwvo/flatbuffers)
 
 **FlatBuffers** is an efficient cross platform serialization library for games and
@@ -52,6 +54,6 @@ you would leave it in.
    [`flatbuffers` tag]: https://stackoverflow.com/questions/tagged/flatbuffers
    [FlatBuffers Google Group]: https://groups.google.com/forum/#!forum/flatbuffers
    [FlatBuffers Issues Tracker]: http://github.com/google/flatbuffers/issues
-   [stackoverflow.com]: http://www.stackoverflow.com
+   [stackoverflow.com]: http://stackoverflow.com/search?q=flatbuffers
    [landing page]: http://google.github.io/flatbuffers
    [LICENSE]: https://github.com/google/flatbuffers/blob/master/LICENSE.txt
